@@ -1,7 +1,7 @@
 # CS2
 Computer Science 2 (CS2) is all about learning the basics of programming and applying them to create simple but useful projects. In this subject, students explore how to write code, handle inputs and outputs, and design programs that solve real problems.
 
-This is the repository of Misty Gean Moreno. AssignMate, you can add assignments, view them, and mark them as done, keeping everything neat and organized.
+This is the repository of Katarah Sabrina A. Abarca. AssignMate, you can add assignments, view them, and mark them as done, keeping everything neat and organized.
 
 # Project Title
 AssignMate
